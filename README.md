@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Thierry, welcome!
 
-<!--
-**TMCognitic/TMCognitic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![photo](./asserts/Thierry.jpg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who am I
+
+- I was born in 1974 and live in Belgium ![BE Flag](https://flagcdn.com/w20/be.png).  
+- I am a .Net developer and trainer for [BStorm](https://www.bstorm.be) and [Cognitic](https://www.cognitic.be).  
+- I write many course materials like C# Fundamentals, C# OO, LINQ, Ado .Net, ...
+- I am passionate about design patterns and development principles.  
+- I have a strong interest in the concepts of CQS, CQRS and Event Sourcing.
+
+---
+
+## :muscle: My specializations
+
+- C#
+- C# OO
+- Ado .Net
+- WPF & MVVM
+- ASP MVC
+- .Net Web API
+- T-SQL & SQL Server administration
+- Docker
+  
+## :seedling: More recently
+
+- JavaScript
+- TypeScript
+- Angular
+- React with TypeScript
+
+---
